@@ -1,0 +1,4 @@
+[2025-09-20 19:54:51] [WARN] Aviso que vai para o arquivo
+[2025-09-20 19:55:59] [WARN] Aviso que vai para o arquivo
+[2025-09-20 20:06:39] [WARN] Aviso que vai para o arquivo
+[2025-09-22 19:38:50] [WARN] Aviso que vai para o arquivo
